@@ -1,4 +1,4 @@
-Formado em Analise e Desenvolvimento de Sistemas. Atualmente estudando PHP e React. Experiência na área de suporte mais 4 anos de atuação como Suporte Técnico N1 e N2 Sênior no STF, TST e Ministérios.
+Formado em Analise e Desenvolvimento de Sistemas. Atualmente estudando PHP e React. Experiência na área de suporte mais 4 anos de atuação como Suporte Técnico N1 e N2 Sênior no STF, TST e Ministérios. Em busca da primeira experiência na área de desenvolvimento.
 
 🦄 Linguagens: PHP e Javascript (React), MySQL, HTML5, CSS3, Laravel
 
